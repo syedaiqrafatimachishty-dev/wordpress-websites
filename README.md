@@ -3,9 +3,17 @@
 A modern, responsive business website designed using WordPress and Elementor.
 
 ## 🔗 Live Website
-🔗 https://thehagroup.co/     
+🔗  https://thehagroup.co/     
 
-🔗 https://crafto.themezaa.com/decor-store/
+🔗  https://crafto.themezaa.com/decor-store/
+
+🔗  https://galvinrestaurants.com/
+
+🔗  https://www.takeoffsoftware.com/
+
+🔗  https://www.fuzeshapes.com/en/projects/exelero/
+
+
 
 ---
 
@@ -18,12 +26,17 @@ A modern, responsive business website designed using WordPress and Elementor.
 
 ## 📸 Website Preview
 
-### Homepage
+
 [![Homepage](https://github.com/syedaiqrafatimachishty-dev/wordpress-websites/blob/e77773e87ab21d21f8fcc2d5f2384146bc611e8f/Real%20Estate.PNG)](https://thehagroup.co/)  
 
-[![Homepage](https://github.com/syedaiqrafatimachishty-dev/wordpress-websites/blob/bc16dd595f4c468864c3e99cea6cd62305656512/crafto.themezaa.com_decor-store_.png)](https://crafto.themezaa.com/decor-store/)  
+[![Homepage](https://github.com/syedaiqrafatimachishty-dev/wordpress-websites/blob/f8aa852bf7958d2631a80fa751aac72c08a040f0/Crafto.png)](https://crafto.themezaa.com/decor-store/)  
 
----
+[![Homepage](https://github.com/syedaiqrafatimachishty-dev/wordpress-websites/blob/f8aa852bf7958d2631a80fa751aac72c08a040f0/Crafto.png)](https://galvinrestaurants.com/)  
+
+[![Homepage](https://github.com/syedaiqrafatimachishty-dev/wordpress-websites/blob/f8aa852bf7958d2631a80fa751aac72c08a040f0/Crafto.png)](https://www.takeoffsoftware.com/)  
+
+[![Homepage](https://github.com/syedaiqrafatimachishty-dev/wordpress-websites/blob/f8aa852bf7958d2631a80fa751aac72c08a040f0/Crafto.png)](https://www.fuzeshapes.com/en/projects/exelero/)  
+
 
 ## ✨ Key Features
 - Fully responsive design

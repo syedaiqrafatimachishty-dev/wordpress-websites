@@ -17,8 +17,8 @@ A modern, responsive business website designed using WordPress and Elementor.
 ## 📸 Website Preview
 
 ### Homepage
-[![Homepage] <img width="1920" height="3783" alt="home" src="https://github.com/user-attachments/assets/838e7b0b-7a9c-45ba-9b72-ada365c15c9d" />
-]([https://yourwebsite.com](https://thehagroup.co/))
+[![Homepage <img width="1920" height="3783" alt="home" src="https://github.com/user-attachments/assets/838e7b0b-7a9c-45ba-9b72-ada365c15c9d" />
+([(https://thehagroup.co/))]
 
 
 

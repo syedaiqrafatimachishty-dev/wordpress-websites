@@ -35,7 +35,7 @@ A modern, responsive business website designed using WordPress and Elementor.
 
 [![Homepage](https://github.com/syedaiqrafatimachishty-dev/wordpress-websites/blob/f8aa852bf7958d2631a80fa751aac72c08a040f0/Crafto.png)](https://www.takeoffsoftware.com/)  
 
-[![Homepage](https://github.com/syedaiqrafatimachishty-dev/wordpress-websites/blob/f8aa852bf7958d2631a80fa751aac72c08a040f0/Crafto.png)](https://www.fuzeshapes.com/en/projects/exelero/)  
+[![Homepage](https://github.com/syedaiqrafatimachishty-dev/wordpress-websites/blob/1dba97022f67c1488a152c216251e05bebf74454/Fuze.png)](https://www.fuzeshapes.com/en/projects/exelero/)  
 
 
 ## ✨ Key Features
